@@ -8,7 +8,7 @@ An end-to-end portfolio analytics project built with Python, SQL Server, and Pow
 
 \## Key Results
 
-
+*Results from the September 2026 analysis run*
 
 \- Latest portfolio value: \*\*$10,998.70\*\*
 

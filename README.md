@@ -106,7 +106,7 @@ portfolio-analytics/
 
 ├── docs/           # Portfolio rules and documentation
 
-├── power\_bi/      # Power BI template and dashboard PDF
+├── power_bi/      # Power BI template and dashboard PDF
 
 ├── SQL/            # Database creation and validation scripts
 
